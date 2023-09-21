@@ -1,0 +1,14 @@
+var pin;
+pin=411018;
+console.log("pincode-",pin,"Data type-",typeof pin );
+var assignment;
+assignment="Basics of variable";
+console.log("Assignment-",assignment,"Data type-",typeof assignment);
+var isUnderstand;
+isUnderstand=true;
+console.log("IsUnderstand-",isUnderstand,"Data type-",typeof isUnderstand);
+console.log("Difference between NULL & UNDEFINED");
+console.log("Undefined--> Variable is declare but Value of variable is not assign  ");
+console.log("NULL--> Null value is assigned to variable when we want to keep value as a empty");
+//var amol=null;
+//console.log(amol,typeof amol);
